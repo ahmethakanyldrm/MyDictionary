@@ -1,0 +1,7 @@
+D:\KampEnginDemirog\ClassMetotDemo\MyDictionary\bin\Debug\MyDictionary.exe.config
+D:\KampEnginDemirog\ClassMetotDemo\MyDictionary\bin\Debug\MyDictionary.exe
+D:\KampEnginDemirog\ClassMetotDemo\MyDictionary\bin\Debug\MyDictionary.pdb
+D:\KampEnginDemirog\ClassMetotDemo\MyDictionary\obj\Debug\MyDictionary.csprojAssemblyReference.cache
+D:\KampEnginDemirog\ClassMetotDemo\MyDictionary\obj\Debug\MyDictionary.csproj.CoreCompileInputs.cache
+D:\KampEnginDemirog\ClassMetotDemo\MyDictionary\obj\Debug\MyDictionary.exe
+D:\KampEnginDemirog\ClassMetotDemo\MyDictionary\obj\Debug\MyDictionary.pdb
