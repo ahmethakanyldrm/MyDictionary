@@ -19,19 +19,27 @@ namespace MyDictionary
             cities.Add(45, "Manisa");
             cities.Add(41, "Kocaeli");
 
-            foreach (var city in cities.Cities)
+            
+               for (int i = 0; i < cities.Cities.Length; i++)
             {
-                Console.WriteLine("Şehir : " + city);
+                Console.WriteLine("Şehir : {0}   Plaka Kodu : {1}",cities.Cities[i],cities.PlateNumbers[i]);
             }
-            Console.WriteLine();
-            Console.WriteLine("------------");
-            Console.WriteLine();
-            foreach (var plateNumber in cities.PlateNumbers)
-            {
-                Console.WriteLine("Plaka Kodu  : " + plateNumber);
-            }
-            Console.WriteLine();
-          
+            
+            //2 farklı foreach ile yazdırma 
+            
+            //foreach (var city in cities.Cities)
+            //{
+            //    Console.WriteLine("Şehir : " + city);
+            //}
+            //Console.WriteLine();
+            //Console.WriteLine("------------");
+            //Console.WriteLine();
+            //foreach (var plateNumber in cities.PlateNumbers)
+            //{
+            //    Console.WriteLine("Plaka Kodu  : " + plateNumber);
+            //}
+           
+                     
             Console.WriteLine();
 
 
